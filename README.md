@@ -28,31 +28,14 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Server & Deployment:**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![WinSCP](https://img.shields.io/badge/WinSCP-5C5C5C?style=flat&logo=winscp&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS_Configuration-00A98F?style=flat&logo=server&logoColor=white)
-
-**Data Analysis & ML:**  
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-1F6FEB?style=flat&logo=weka&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-00758F?style=flat&logo=pandas&logoColor=white)
 
 
 ### 🔥 Featured Projects
 #### 💼 **Enterprise Systems**
-- **Stock Opname OCR System** - Automated stock data extraction
-- **Recruitment System** - Secure recruitment with data encryption
-- **Budget Management System** - Multi-level approval workflow
-- **Document Control System** - QMS-integrated document management
+- **Digitizing Visitor** - System visitor registration |
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: [hanif-fathurrahman-rustanto](https://www.linkedin.com/in/hanif-fathurrahman-rustanto)
-- 📧 Email: haniffathurrahmanrustanto@gmail.com
+- 💼 LinkedIn: [Raisa Akmal Faridi](https://www.linkedin.com/in/raisa-akmal-faridi/)
+- 📧 Email: raisaakamal@gmail.com  
 
 ---
